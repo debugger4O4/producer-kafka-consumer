@@ -4,3 +4,4 @@
 Использовалась локальная БД H2.
 <br />
 Для работы скачивайте проект -> ```mvn clean install -DskipTests``` -> ```mvn spring-boot:run```.
+<br /> Чтобы пользоваться заполнить файлы application.properties своими данными.
