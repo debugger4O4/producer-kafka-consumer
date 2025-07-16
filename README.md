@@ -3,4 +3,4 @@
 <br />
 Использовалась локальная БД H2.
 <br />
-Для работы скачивайте проект -> генерите токен -> mvn clean install -DskipTests -> mvn spring-boot:run.
+Для работы скачивайте проект -> ```mvn clean install -DskipTests``` -> ```mvn spring-boot:run```.
